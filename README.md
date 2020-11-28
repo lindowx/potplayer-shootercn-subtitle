@@ -7,6 +7,10 @@ potplayer-shootercn-subtitle
 
 - 到Releases页面下载最新版本的插件文件压缩包
 - 将压缩包中的`.as`和`.ico`文件解压到 PortPlayer 安装目录下 `Extension\Subtitle\Search` 这个目录中
-- 重启PortPlayer
+- 重启PotPlayer
+
+## 设置(可选)
+
+如果要禁用默认的其他的国外字幕搜索插件，可以在`选项` -> `扩展功能` -> `在线字幕搜索`中将shooter.cn以外的勾选框全部去掉，然后保存并重新启动PotPlayer即可
 
 > 仅测试了 PortPlayer 1.7.21311 版本
