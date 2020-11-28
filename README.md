@@ -13,4 +13,6 @@ potplayer-shootercn-subtitle
 
 如果要禁用默认的其他的国外字幕搜索插件，可以在`选项` -> `扩展功能` -> `在线字幕搜索`中将shooter.cn以外的勾选框全部去掉，然后保存并重新启动PotPlayer即可
 
+![image](https://raw.githubusercontent.com/lindowx/potplayer-shootercn-subtitle/main/screenshot/settings.png)
+
 > 仅测试了 PortPlayer 1.7.21311 版本
