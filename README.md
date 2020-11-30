@@ -3,7 +3,7 @@ potplayer-shootercn-subtitle
 
 一个用于PotPlayer的射手字幕搜索扩展/插件。
 
-![GitHub all releases](https://img.shields.io/github/downloads/lindowx/potplayer-shootercn-subtitle/total?style=flat) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lindowx/potplayer-shootercn-subtitle?style=flat-square)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lindowx/potplayer-shootercn-subtitle?style=flat-square)
 
 ## 安装
 
