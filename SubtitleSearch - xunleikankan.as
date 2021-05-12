@@ -109,7 +109,7 @@ array<dictionary> SubtitleSearch(string MovieFileName, dictionary MovieMetaData)
 
                 if(subtitle.isObject())
                 {
-                    item["id"] = subtitle["scid"].asString();
+                    item["id"] = subtitle["surl"].asString();
                     item["title"] = subtitle["sname"].asString();
                     string lang = subtitle["language"].asString();
                     if (lang == "简体" || lang == "繁体")
